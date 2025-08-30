@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Indhold i index.
