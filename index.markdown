@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is the home.
+Velkommen til forsiden.
