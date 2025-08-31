@@ -21,9 +21,7 @@
 title: Beboerforeningen Østermarken
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Velkommen til Beboerforeningen Østermarkens hjemmeside.
-  På siden finder du nyttige informationer om foreningen, bestyrelse og vedtægter.
-  Som medlem af foreningen kan du også kontakte bestyrelsen med ideer og forslag.
+  Beboerforeningen Østermarken: Kærsangervej, Løvsangervej, Rørsangervej og Skovsangervej i 8300 Odder.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  emilkaae

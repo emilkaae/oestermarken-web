@@ -3,6 +3,7 @@ layout: page
 title: Om foreningen
 permalink: /about/
 ---
+Velkommen til Beboerforeningen Østermarkens hjemmeside. På siden finder du nyttige informationer om foreningen, bestyrelse og vedtægter.
 
 Beboerforeningen dækker gaderne Kærsangervej, Løvsangervej, Rørsangervej og Skovsangervej i 8300 Odder.
 
