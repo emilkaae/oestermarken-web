@@ -38,6 +38,9 @@ minima:
   date_format: "%e. %B %Y"
   hide_site_feed_link: false
 
+date_locale: da
+locales_path: _locales
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
