@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Dansk test"
+categories: jekyll update
+lang: da
+---
+
+Dette er et indlæg på dansk
