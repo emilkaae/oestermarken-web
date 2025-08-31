@@ -4,15 +4,19 @@ title: Om foreningen
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Beboerforeningen dækker gaderne Kærsangervej, Løvsangervej, Rørsangervej og Skovsangervej i 8300 Odder.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Bestyrelsen
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Vi forsøger at sammensætte bestyrelsen i videst muligt omfang så alle veje i foreningen er repræsenteret.
 
+Navn                    | Rolle         | Adresse          | Telefon
+------------------------|---------------|------------------|----------
+Emil Hansen             | Forperson     | Løvsangervej 12  | 2981 0873
+Asbjørn Jørgensen       | Kasserer      | Rørsangervej 2   | 2663 0320
+Dan Enevold Mikkelsen   | Sekretær      | Kærsangervej 10  | 2560 9696
+Jakob Rohde-Kappel      | Menigt medlem | Skovsangervej 10 | 2785 5878
+Lars Ingemann-Jensen    | Suppleant     | Kærsangervej 1   | 6178 4576
+Dorte Rebsdorf Sørensen | Suppleant     | Løvsangervej 3   | 
 
-[jekyll-organization]: https://github.com/jekyll
+Vi arbejder på at give mulig til at sende email til bestyrelsen.

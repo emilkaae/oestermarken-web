@@ -6,4 +6,4 @@ layout: home
 list_title: "Indlæg"
 ---
 
-Velkommen til forsiden.
+<img src="oestermarken_skyer.png"/>
