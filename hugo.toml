@@ -1,6 +1,21 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://oestermarken-odder.dk'
+languageCode = 'da-dk'
+defaultContentLanguage = 'da'
+timeZone = 'Europe/Copenhagen'
+title = 'Beboerforeningen Østermarken'
+sectionPagesMenu = 'main'
+
+[languages.da.params]
+read_more_copy = "Læs mere"
+
+[params]
+date_format = ":date_full"
+site_logo = "oestermarken_skyer.png"
+background_color_class = "bg-green"
+
+[params.contact]
+email = 'bestyrelsen@oestermarken-odder.dk'
+
 
 [module]
 [[module.imports]]

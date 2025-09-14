@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <div style="text-align: center; margin-top: 50px; width: 75%">
+    <h1>404 Not Found</h1>
+    <p>Den side, som du søgte, findes ikke.</p>
+    <img src="404.png" alt="404 Image" style="max-width: 300px; height: auto;"/>
+    <p>
+      <a href="{{ .Site.Home.RelPermalink }}">
+        Tilbage til forsiden
+      </a>
+    </p>
+  </div>
+{{ end }}
