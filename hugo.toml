@@ -11,7 +11,7 @@ read_more_copy = "Læs mere"
 [params]
 date_format = ":date_full"
 site_logo = "oestermarken_skyer.png"
-background_color_class = "bg-green"
+background_color_class = "bg-dark-green"
 
 [params.contact]
 email = 'bestyrelsen@oestermarken-odder.dk'
@@ -23,6 +23,9 @@ disable = false
 ignoreConfig = false
 ignoreImports = false
 path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+[[module.imports]]
+path = "github.com/KKKZOZ/hugo-admonitions"
+
 
 [caches]
 [[caches.images]]
