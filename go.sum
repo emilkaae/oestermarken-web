@@ -1,4 +1,6 @@
 github.com/KKKZOZ/hugo-admonitions v0.10.1 h1:ZJU157gve6JhmB5fHKWjwgRI80s+mFyCqASTkAHazLI=
 github.com/KKKZOZ/hugo-admonitions v0.10.1/go.mod h1:4PsJAsqo3mS3VzAtDLa8k0ds+CJQUWZhAo9kLi1NRlM=
+github.com/martignoni/hugo-cloak-email v0.0.0-20240919153706-226f4d1891b9 h1:uvs48jiSr5V7/KD1Sd9W0dV4yV/q7LgwH43b6P1w9v0=
+github.com/martignoni/hugo-cloak-email v0.0.0-20240919153706-226f4d1891b9/go.mod h1:35HUWY+v2AET8p+8jRpOyuLIapBaXIFOY8ld8O4EZkc=
 github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1 h1:SxVd2+ADMcMiNSsCnAdBnoMMZAUfwHDCvDExZ5fRseo=
 github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1/go.mod h1:+a6uqEsCq0+rqHWY5W5QA3P9DNnxcbyCw+CVEB+Uveg=

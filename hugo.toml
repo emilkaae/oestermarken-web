@@ -19,6 +19,8 @@ email = 'bestyrelsen@oestermarken-odder.dk'
 
 [module]
 [[module.imports]]
+path = "github.com/martignoni/hugo-cloak-email"
+[[module.imports]]
 disable = false
 ignoreConfig = false
 ignoreImports = false
@@ -28,5 +30,5 @@ path = "github.com/KKKZOZ/hugo-admonitions"
 
 
 [caches]
-[[caches.images]]
+[caches.images]
 dir = ':cacheDir/images'

@@ -20,4 +20,4 @@ Vi forsøger at sammensætte bestyrelsen i videst muligt omfang så alle veje i 
 |Dorte Rebsdorf Sørensen | Suppleant     | Løvsangervej 3   |           |  
 
 > [!TIP]
-> Du kan skrive email til bestyrelsen på <info@oestermarken-web.dk>
+> Du kan skrive email til bestyrelsen på {{< cloakemail "info@oestermarken-web.dk" >}}
