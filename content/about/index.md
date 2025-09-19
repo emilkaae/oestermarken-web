@@ -6,7 +6,7 @@ title: 'Om'
 
 Beboerforeningen dækker gaderne Kærsangervej, Løvsangervej, Rørsangervej og Skovsangervej i 8300 Odder.
 
-# Bestyrelsen
+## Bestyrelsen
 
 Vi forsøger at sammensætte bestyrelsen i videst muligt omfang så alle veje i foreningen er repræsenteret.
 
@@ -19,6 +19,5 @@ Vi forsøger at sammensætte bestyrelsen i videst muligt omfang så alle veje i 
 |Lars Ingemann-Jensen    | Suppleant     | Kærsangervej 1   | 6178 4576 |  
 |Dorte Rebsdorf Sørensen | Suppleant     | Løvsangervej 3   |           |  
 
-
 > [!TIP]
-> Du kan skrive email til bestyrelsen på info@oestermarken-web.dk
+> Du kan skrive email til bestyrelsen på <info@oestermarken-web.dk>
