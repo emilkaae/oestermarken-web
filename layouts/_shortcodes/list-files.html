@@ -1,0 +1,12 @@
+<!-- layouts/shortcodes/list-files.html -->
+
+{{ $dir := .Get "dir" }}
+{{ $regexp := .Get "regexp" }}
+
+<ul>
+{{ range sort (readDir (delimit (slice "static" $dir) "/")) "Name" "asc" }}
+  {{ if (findRE $regexp .Name) }}
+    <li><a href="{{ $dir }}/{{ .Name }}">{{ .Name }}</a></li>
+  {{ end }}
+{{ end }}
+</ul>
