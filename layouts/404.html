@@ -2,7 +2,7 @@
   <div style="text-align: center; margin-top: 50px; width: 75%">
     <h1>404 Not Found</h1>
     <p>Den side, som du søgte, findes ikke.</p>
-    {{ $fourohfour := "/404.png" }}
+    {{ $fourohfour := "404.png" }}
     <img src="{{ relURL $fourohfour }}" alt="404 Image" style="max-width: 300px; height: auto;"/>
     <p>
       <a href="{{ .Site.Home.RelPermalink }}">
