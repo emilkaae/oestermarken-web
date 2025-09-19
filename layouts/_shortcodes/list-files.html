@@ -6,7 +6,7 @@
 <ul>
 {{ range sort (readDir (delimit (slice "static" $dir) "/")) "Name" "asc" }}
   {{ if (findRE $regexp .Name) }}
-    <li><a href="/{{ $dir }}/{{ .Name }}">{{ .Name }}</a></li>
+    <li><a href="{{ relURL $dir }}/{{ .Name }}">{{ .Name }}</a></li>
   {{ end }}
 {{ end }}
 </ul>
