@@ -10,14 +10,16 @@ Beboerforeningen dækker gaderne Kærsangervej, Løvsangervej, Rørsangervej og 
 
 Vi forsøger at sammensætte bestyrelsen i videst muligt omfang så alle veje i foreningen er repræsenteret.
 
+{{< table class="pure-table pure-table-bordered">}}
 |Navn                    | Rolle         | Adresse          | Telefon   |
 |:-----------------------|:--------------|:-----------------|:--------- |  
-|Emil Hansen             | Forperson     | Løvsangervej 12  | 2981 0873 |  
-|Asbjørn Jørgensen       | Kasserer      | Rørsangervej 2   | 2663 0320 |  
-|Dan Enevold Mikkelsen   | Sekretær      | Kærsangervej 10  | 2560 9696 |  
-|Jakob Rohde-Kappel      | Menigt medlem | Skovsangervej 10 | 2785 5878 |  
-|Lars Ingemann-Jensen    | Suppleant     | Kærsangervej 1   | 6178 4576 |  
-|Dorte Rebsdorf Sørensen | Suppleant     | Løvsangervej 3   |           |  
+|Emil&nbsp;Hansen             | Forperson     | Løvsangervej&nbsp;12  | 2981&nbsp;0873 |  
+|Asbjørn&nbsp;Jørgensen       | Kasserer      | Rørsangervej&nbsp;2   | 2663&nbsp;0320 |  
+|Dan&nbsp;Enevold&nbsp;Mikkelsen   | Sekretær      | Kærsangervej&nbsp;10  | 2560&nbsp;9696 |  
+|Jakob&nbsp;Rohde-Kappel      | Menigt medlem | Skovsangervej&nbsp;10 | 2785&nbsp;5878 |  
+|Lars&nbsp;Ingemann-Jensen    | Suppleant     | Kærsangervej&nbsp;1   | 6178&nbsp;4576 |  
+|Dorte&nbsp;Rebsdorf&nbsp;Sørensen | Suppleant     | Løvsangervej&nbsp;3   |           |
+{{< /table >}}
 
 > [!TIP]
 > Du kan skrive email til bestyrelsen på {{< cloakemail "info@oestermarken-web.dk" >}}
