@@ -2,6 +2,8 @@
 menus: 'main'
 title: 'Vedtægter'
 description: 'Vedtægter for Beboerforeningen Østermarken.'
+cover_dimming_class: 'bg-white-0'
+
 ---
 
 > [!INFO]

@@ -2,6 +2,8 @@
 menus: 'main'
 title: 'Arkiv'
 description: 'Arkiv fra generalforsamlingerne.'
+cover_dimming_class: 'bg-white-0'
+
 ---
 
 Dette er foreningens arkiv, hvor du kan finde tidligere referater og regnskaber.

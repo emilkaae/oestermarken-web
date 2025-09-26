@@ -1,6 +1,7 @@
 ---
 menus: 'main'
 title: 'Om foreningen'
+cover_dimming_class: 'bg-white-0'
 
 ---
 
