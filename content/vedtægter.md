@@ -1,7 +1,7 @@
 ---
 menus: 'main'
 title: 'Vedtægter'
-description: 'Vedtægter for beboerforeningen Østermarken.'
+description: 'Vedtægter for Beboerforeningen Østermarken.'
 ---
 
 > [!INFO]
