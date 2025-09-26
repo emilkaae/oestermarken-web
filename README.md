@@ -1,9 +1,7 @@
 # oestermarken-web
+
 Beboerforeningen Østermarkens Hjemmeside
 
-# Todo
+## Tema
 
-## Navigation til vedtægter og referater
-
-## Farver og fonte
-
+Siden er bygget med Hugo og Ananke temaet (<https://github.com/theNewDynamic/gohugo-theme-ananke?tab=readme-ov-file>)
