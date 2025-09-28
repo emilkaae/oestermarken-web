@@ -1,5 +1,4 @@
-#baseURL = 'https://oestermarken-odder.dk'
-baseURL = 'https://emilkaae.github.io/oestermarken-web/'
+baseURL = 'https://oestermarken-odder.dk'
 languageCode = 'da-dk'
 defaultContentLanguage = 'da'
 timeZone = 'Europe/Copenhagen'
