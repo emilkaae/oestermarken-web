@@ -3,6 +3,7 @@ menus: 'main'
 title: 'Arkiv'
 description: 'Arkiv fra generalforsamlingerne.'
 cover_dimming_class: 'bg-white-0'
+featured_image_class: 'cover bg-top'
 
 ---
 
