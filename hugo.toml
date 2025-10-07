@@ -1,4 +1,4 @@
-baseURL = 'https://oestermarken-odder.dk'
+baseURL = 'https://www.oestermarken-odder.dk'
 languageCode = 'da-dk'
 defaultContentLanguage = 'da'
 timeZone = 'Europe/Copenhagen'
