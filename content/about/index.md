@@ -21,7 +21,7 @@ Vi forsøger at sammensætte bestyrelsen i videst muligt omfang så alle veje i 
 |Dan&nbsp;Enevold&nbsp;Mikkelsen   | Sekretær      | Kærsangervej&nbsp;10  | 2560&nbsp;9696 |
 |Jakob&nbsp;Rohde&ndash;Kappel      | Menigt medlem | Skovsangervej&nbsp;10 | 2785&nbsp;5878 |
 |Lars&ndash;Ingemann&nbsp;Jensen    | Suppleant     | Kærsangervej&nbsp;1   | 6178&nbsp;4576 |
-|Dorte&nbsp;Rebsdorf&nbsp;Sørensen | Suppleant     | Løvsangervej&nbsp;3   |           |
+|Dorte&nbsp;Rebsdorf&nbsp;Sørensen | Suppleant     | Løvsangervej&nbsp;3   | 2285&nbsp;1184 |
 {{< /table >}}
 
 > [!TIP]
