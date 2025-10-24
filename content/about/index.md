@@ -26,3 +26,4 @@ Vi forsøger at sammensætte bestyrelsen i videst muligt omfang så alle veje i 
 > [!TIP]
 > Du kan skrive email til bestyrelsen på {{< cloakemail "bestyrelsen@oestermarken-odder.dk" >}}
 > eller {{< cloakemail "formand@oestermarken-odder.dk" >}}.
+> Kassereren kan kontaktes på {{< cloakemail "kasserer@oestermarken-odder.dk" >}}.
