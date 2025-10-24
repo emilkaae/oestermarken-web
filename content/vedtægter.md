@@ -3,7 +3,6 @@ menus: 'main'
 title: 'Vedtægter'
 description: 'Vedtægter for Beboerforeningen Østermarken.'
 cover_dimming_class: 'bg-white-0'
-featured_image_class: 'cover bg-top'
 
 ---
 
