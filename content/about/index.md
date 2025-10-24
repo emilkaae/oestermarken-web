@@ -6,7 +6,7 @@ cover_dimming_class: 'bg-white-0'
 private: true
 ---
 
-Beboerforeningen dækker gaderne Kærsangervej, Løvsangervej, Rørsangervej og Skovsangervej i 8300 Odder. CVR nr. 28491441.
+Beboerforeningen dækker gaderne Kærsangervej, Løvsangervej, Rørsangervej og Skovsangervej i 8300 Odder. CVR nr. 28491441. Medlemsskab er obligatorisk for alle boligejere i foreningen. Kontingentet faststættes ved generalforsamlingen.
 
 ## Bestyrelsen
 
