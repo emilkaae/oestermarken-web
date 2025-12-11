@@ -12,7 +12,6 @@ Beboerforeningen dækker gaderne Kærsangervej, Løvsangervej, Rørsangervej og 
 
 Vi forsøger at sammensætte bestyrelsen i videst muligt omfang så alle veje i foreningen er repræsenteret.
 
-{{< table class="pure-table pure-table-bordered">}}
 |Navn                    | Rolle         | Adresse          | Telefon   |
 |:-----------------------|:--------------|:-----------------|:----------|
 |Emil&nbsp;Hansen             | Forperson     | Løvsangervej&nbsp;12  | 2981&nbsp;0873 |
@@ -21,7 +20,7 @@ Vi forsøger at sammensætte bestyrelsen i videst muligt omfang så alle veje i 
 |Jakob&nbsp;Rohde&ndash;Kappel      | Menigt medlem | Skovsangervej&nbsp;10 | 2785&nbsp;5878 |
 |Lars&ndash;Ingemann&nbsp;Jensen    | Suppleant     | Kærsangervej&nbsp;1   | 6178&nbsp;4576 |
 |Dorte&nbsp;Rebsdorf&nbsp;Sørensen | Suppleant     | Løvsangervej&nbsp;3   | 2285&nbsp;1184 |
-{{< /table >}}
+{.pure-table .pure-table-bordered}
 
 > [!TIP]
 > Du kan skrive email til bestyrelsen på {{< cloakemail "bestyrelsen@oestermarken-odder.dk" >}}
