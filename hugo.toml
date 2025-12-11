@@ -15,6 +15,10 @@ background_color_class = "bg-dark-green"
 featured_image_class = "cover bg-bottom"
 cover_dimming_class = "bg-white-0"
 
+[markup.goldmark.parser.attribute]
+title = true # default is true; applies to h1-h6 elements
+block = true # default is false; applies to other block-level elements
+
 [params.contact]
 email = 'bestyrelsen@oestermarken-odder.dk'
 
