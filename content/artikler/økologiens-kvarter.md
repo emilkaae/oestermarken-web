@@ -11,7 +11,6 @@ Referat fra kommunalbestyrelsen kan læses [her](https://dagsordener.odder.dk/vi
 
 Bestyrelsen holder sig aktivt orienteret om projektet. På de to nedenstående links kan man læse om annoncereringen fra 2022, Økologiens Kvarter og den tilstødende udstykning Rodstenseje.
 
- * https://odder.dk/nyheder/2023/jun/strukturplan-for-okologiens-kvarter-vedtaget
- * https://oekologienskvarter.dk/
- * https://www.rodsteenseje.dk/nyt-boligomraade/
-
+* <https://odder.dk/nyheder/2023/jun/strukturplan-for-okologiens-kvarter-vedtaget>
+* <https://oekologienskvarter.dk/>
+* <https://www.rodsteenseje.dk/nyt-boligomraade/>
