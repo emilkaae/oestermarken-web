@@ -30,7 +30,7 @@ Forperson Emil Kaae Hansen og pædagogisk leder Eldin Basic byder velkommen.
 8) Eventuelt.
 
 I forbindelse med generalforsamlingen serveres øl/vand og snacks under mødet og efterfølgende kaffe/te med othellolagkage fra Kvickly.
-Af hensyn til forplejning, vil vi gerne have tilmeldinger til undertegnede senest onsdag den 21. maj på mail: {{< cloakemail "emil@oestermarken-odder.dk" >}} eller sms: 29810873.
+Af hensyn til forplejning, vil vi gerne have tilmeldinger til undertegnede senest onsdag den 8. maj på mail: {{< cloakemail "emil@oestermarken-odder.dk" >}} eller sms: 29810873.
 
 Med venlig hilsen på bestyrelsens vegne
 
