@@ -1,11 +1,11 @@
 +++
-date = '2026-04-23T00:00:00+01:00'
+date = '2026-04-22T00:00:00+01:00'
 draft = false
-title = 'Generalforsamling 23. maj 2026'
+title = 'Generalforsamling 13. maj 2026'
 featured_image = ''
 +++
 
-## Odder d. 23. april 2026
+## Odder d. 13. maj 2026
 
 Kære medlemmer i beboerforeningen Østermarken.
 
