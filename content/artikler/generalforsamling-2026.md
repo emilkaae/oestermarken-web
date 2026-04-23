@@ -15,7 +15,7 @@ Forperson Emil Kaae Hansen og pædagogisk leder Eldin Basic byder velkommen.
 
 1) Valg af dirigent og referent.
 2) Beretning ved forperson Emil Kaae Hansen
-3) Regnskab ved kasserer Asbjørn Jørgensen
+3) Regnskab ved kasserer Asbjørn Jørgensen [(bilag vedlagt)](revideret-regnskab-2026.pdf)
 4) Indkomne forslag. Forslag skal være forpersonen i hænde senest 8 dage før generalforsamlingen på mail til: {{< cloakemail "emil@oestermarken-odder.dk" >}}
    1) Forslag om ændringer af vedtægter [(bilag vedlagt)](BFO_vedtægter_2026_(markup).pdf)
 5) Fastsættelse af kontingent, der aktuelt er på 1.500 kr. årligt. Bestyrelsen foreslår uændret kontingent.
