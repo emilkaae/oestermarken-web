@@ -26,7 +26,11 @@ Forperson Emil Kaae Hansen og pædagogisk leder Eldin Basic byder velkommen.
    2) Valg af suppleant
       * Dorte Sørensen (Løvsangervej) er på valg
       * Lars Ingemann–Jensen (Kærsangervej) er på valg
-7) Beredskabsplan
+7) Beredskabsplan: Orientering om beredskabet. (Aktuel beredskabsplan kan læses [her]({{< relref "../beredskabsplan2025.md" >}}))
+
+   * Valg af 1 repræsentant fra hver vej til beredskabsgruppen.
+
+   * På valg er Anne - Kærsangervej 4; Dorte - Løvsangervej 3; Fika - Rørsangervej 2; og Rikke – Skovsangervej 5. Alle er villige til genvalg.
 8) Eventuelt.
 
 I forbindelse med generalforsamlingen serveres øl/vand og snacks under mødet og efterfølgende kaffe/te med othellolagkage fra Kvickly.
