@@ -9,7 +9,7 @@ featured_image = ''
 
 Kære medlemmer i beboerforeningen Østermarken.
 
-Der indkaldes til den årlige generalforsamling i Beboerforeningen Østermarken mandag den 13. maj 2026 kl. 19 på Odder Gymnasium på *Lærerværelset*.
+Der indkaldes til den årlige generalforsamling i Beboerforeningen Østermarken onsdag den 13. maj 2026 kl. 19 på Odder Gymnasium på *Lærerværelset*.
 Dagsorden til generalforsamlingen:
 Forperson Emil Kaae Hansen og pædagogisk leder Eldin Basic byder velkommen.
 
