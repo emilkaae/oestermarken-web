@@ -19,6 +19,8 @@ Forperson Emil Kaae Hansen og pædagogisk leder Eldin Basic byder velkommen.
 4) Indkomne forslag. Forslag skal være forpersonen i hænde senest 8 dage før generalforsamlingen på mail til: {{< cloakemail "emil@oestermarken-odder.dk" >}}
    1) Forslag om ændringer af vedtægter [(bilag vedlagt)](Forslag_1_BFO_vedtægter_2026_(markup).pdf)
    2) Forslag om kommisorium til legepladsudvalg [(bilag vedlagt)](Forslag_2_bedre_legeplads_Østermarken.pdf)
+   3) Forslag om opmaling af vejstriber (Jytte, Rørsangervej 6)
+      * Vejstriber og hajtænder er ikke længere særligt synlige. Foruden at se pænere ud, vil tyfelige vejstriber forhåbentlig animere til at overhold færdselsreglerne også. Forslaget er, at bestyrelsen sørger for at få malet striberne op på Østermarksvej samt stikvejene i kvarteret.
 5) Fastsættelse af kontingent, der aktuelt er på 1.500 kr. årligt. Bestyrelsen foreslår uændret kontingent.
 6) Valg til bestyrelsen:
    1) To bestyrelsesmedlemmer vælges
