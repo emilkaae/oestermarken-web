@@ -25,7 +25,7 @@ Forperson Emil Kaae Hansen og pædagogisk leder Eldin Basic byder velkommen.
 6) Valg til bestyrelsen:
    1) To bestyrelsesmedlemmer vælges
       * Dan Mikkelsen (Kærsangervej) er på valg
-      * Jakob Kappel (Skovsangervej) er på valg
+      * Jakob Rohde (Skovsangervej) er på valg
    2) Valg af suppleant
       * Dorte Sørensen (Løvsangervej) er på valg
       * Lars Ingemann–Jensen (Kærsangervej) er på valg
