@@ -15,10 +15,10 @@ Vi forsøger at sammensætte bestyrelsen i videst muligt omfang så alle veje i 
 |Navn                    | Rolle         | Adresse          | Telefon   |
 |:-----------------------|:--------------|:-----------------|:----------|
 |Emil&nbsp;Hansen             | Forperson     | Løvsangervej&nbsp;12  | 2981&nbsp;0873 |
+|Søren&nbsp;Strand.           | Sekretær      | Kærsangervej&nbsp;9   | 5216&nbsp;9174 |
 |Asbjørn&nbsp;Jørgensen       | Kasserer      | Rørsangervej&nbsp;2   | 2663&nbsp;0320 |
-|Dan&nbsp;Enevold&nbsp;Mikkelsen   | Sekretær      | Kærsangervej&nbsp;10  | 2560&nbsp;9696 |
 |Jakob&nbsp;Rohde&ndash;Rohde      | Menigt medlem | Skovsangervej&nbsp;10 | 2785&nbsp;5878 |
-|Lars&ndash;Ingemann&nbsp;Jensen    | Suppleant     | Kærsangervej&nbsp;1   | 6178&nbsp;4576 |
+|Dan&nbsp;Enevold&nbsp;Mikkelsen   | Suppleant     | Kærsangervej&nbsp;10  | 2560&nbsp;9696 |
 |Dorte&nbsp;Rebsdorf&nbsp;Sørensen | Suppleant     | Løvsangervej&nbsp;3   | 2285&nbsp;1184 |
 {.pure-table .pure-table-bordered}
 
