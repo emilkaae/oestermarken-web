@@ -7,17 +7,18 @@ cover_dimming_class: 'bg-white-0'
 ---
 
 > [!INFO]
-> Vedtægterne kan dowloades som PDF [her](BFO_vedtægter_2025.pdf).
-> Tidligere vedtægter er også tilgængelige: [1989](BFO_vedtægter_1989.pdf) og [1974](BFO_vedtægter_1974.pdf)
+> Vedtægterne kan dowloades som PDF [her](BFO_vedtægter_2026.pdf).
+> Tidligere vedtægter er også tilgængelige: [2025](BFO_vedtægter_2025.pdf), [1989](BFO_vedtægter_1989.pdf) og [1974](BFO_vedtægter_1974.pdf)
 
-Vedtaget på den ordinære generalforsamling, mandag d. 26. maj 2025.
+Vedtaget på den ordinære generalforsamling, mandag d. 13. maj 2026.
 
 ## Foreningens formål
 
 ### §1
 
 Foreningens formål er at varetage beboernes fælles interesser, herunder fællesarealernes indretning, vedligehold og udnyttelse, samt at påse at de offentlige faciliteter, der skal forefindes i boligområdet, etableres og holdes i hensigtsmæssig stand.
-Medlemmerne
+
+## Medlemmerne
 
 ### §2
 
@@ -35,12 +36,14 @@ Bestyrelsen kontakter nye beboere i kvarteret og gør opmærksom på det pligtig
 
 ### §5
 
-Bestyrelsen består af 4 medlemmer der vælges for 2 år ad gangen. Derudover op til to suppleanter, der vælges for 1 år ad gangen
+Bestyrelsen består af 4 medlemmer der vælges på generalforsamlingen af foreningens medlemmer for 2 år ad gangen. Derudover op til to suppleanter, der vælges for 1 år ad gangen.
+
 Genvalg kan finde sted for både bestyrelsesmedlemmer og suppleanter.
 
 ### §6
 
 Bestyrelsen konstituerer sig selv med forperson, kasserer og sekretær.
+
 Den fastlægger selv sin forretningsorden.
 
 ### §7
@@ -57,7 +60,7 @@ Regnskabsåret løber fra 1. januar til 31. december. Årsregnskabet afgives til
 
 ### §10
 
-Formanden tegner foreningen i forbindelse med et andet bestyrelsesmedlem overfor tredjemand. Kassereren tegner foreningen økonomisk.
+Forpersonen tegner foreningen i forbindelse med et andet bestyrelsesmedlem overfor tredjemand. Kassereren og forpersonen tegner foreningen økonomisk.
 
 ### §11
 
@@ -65,14 +68,16 @@ Generalforsamlingen er foreningens højeste myndighed, der ene kan give, ophæve
 
 ### §12
 
-Generalforsamlingen træffer sine beslutninger ved almindeligt stemmeflertal blandt de fremmødte.
-Vedtægtsændringer kræver dog 2/3 majoritet blandt de fremmødte. Ved forslag om vedtægtsændringer varsles disse i indkaldelsen til generalforsamlingen.
+Generalforsamlingen træffer sine beslutninger ved almindeligt stemmeflertal blandt de fremmødte medlemmer.
+
+Vedtægtsændringer kræver dog 2/3 majoritet blandt de fremmødte medlemmer. Ved forslag om vedtægtsændringer varsles disse i indkaldelsen til generalforsamlingen.
 
 ### §13
 
 Ordinær generalforsamling afholdes årligt i første halvdel af maj. Generalforsamlingen kan kun træffe beslutning om sager, der er optaget på dagsordenen.
 
-Indkaldelse til generalforsamling sker skriftligt med 14 dages varsel. Forslag, der ønskes optaget på dagsordenen, skal være formanden i hænde 8 dage før generalforsamlingen, så endelig dagsorden kan udsendes 4 dage før (hvis der er ændringer eller tilføjelser).
+Indkaldelse til generalforsamling sker skriftligt med 14 dages varsel. Forslag, der ønskes optaget på dagsordenen, skal være forpersonen i hænde 8 dage før generalforsamlingen, så endelig dagsorden kan udsendes 4 dage før (hvis der er ændringer eller tilføjelser).
+
 
 På den ordinære generalforsamling skal følgende punkter optages:
 
@@ -88,4 +93,4 @@ På den ordinære generalforsamling skal følgende punkter optages:
 
 Ekstraordinær generalforsamling indkaldes, når forpersonen, 3 bestyrelsesmedlemmer, en generalforsamling eller mindst halvdelen af medlemmerne skriftligt stiller krav herom med angivelse af forhandlingsemne.
 
-Således vedtaget på den ordinære generalforsamling den 26. maj 2025.
+Således vedtaget på den ordinære generalforsamling den 13. maj 2026.
