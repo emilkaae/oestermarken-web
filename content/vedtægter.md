@@ -78,7 +78,6 @@ Ordinær generalforsamling afholdes årligt i første halvdel af maj. Generalfor
 
 Indkaldelse til generalforsamling sker skriftligt med 14 dages varsel. Forslag, der ønskes optaget på dagsordenen, skal være forpersonen i hænde 8 dage før generalforsamlingen, så endelig dagsorden kan udsendes 4 dage før (hvis der er ændringer eller tilføjelser).
 
-
 På den ordinære generalforsamling skal følgende punkter optages:
 
 1. Valg af dirigent.
